@@ -1,0 +1,6 @@
+{
+  "name": "Notch Navbar",
+  "description": "A responsive three-slice SVG notch navigation bar with theme switching and animated mobile drawer from VengeanceUI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
